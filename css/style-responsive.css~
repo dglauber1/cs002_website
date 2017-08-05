@@ -1,0 +1,182 @@
+@media only screen and (max-width: 320px) {
+	.name {
+		font-size:1.7em;
+		margin-top:5px;
+	}
+
+	.nav {
+		height:auto;
+		margin-top:0;
+	}
+	
+	.nav li {
+		height:35px;
+		font-size:.8em;
+		margin-right:0;
+		padding-left:0;
+		padding-right:0;
+	}
+	
+	.header {
+	  height:auto;
+	}
+	
+	.footer {
+	  font-size:1em;
+	}
+	
+	.photo-head {
+		display:none;	
+	}
+	
+	.container{
+		padding-top:170px;	
+	}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 560px) {
+	.name {
+		font-size:1.7em;
+		margin-top:5px;
+	}
+	
+	.header {
+	  height:109px;
+	}
+
+	.nav {
+		height:35px;
+		margin-top:0;
+	}
+	
+	.nav li {
+		height:35px;
+		font-size:.8em;
+		font-weight:bold;
+		margin-right:0;
+		padding-left:0;
+		padding-right:0;
+	}
+	
+	.footer {
+	  font-size:1em;
+	}
+	
+	.photo-head {
+		display:none;	
+	}
+	
+	.container{
+		padding-top:109px;	
+	}
+	
+	.staffDiv table td {
+		  width:210px !important;
+	}
+	
+	.staffDiv table td.photo {
+		  background-size: 210px !important;
+	}
+	
+	.photo-head {
+		height:150px;	
+	}
+}
+
+@media only screen and (min-width: 560px) and (max-width: 588px) {
+	.name {
+		font-size:1.5em;
+		margin-top:5px;
+	}
+	
+	.header {
+	  height:70px;
+	}
+
+	.nav {
+		height:35px;
+		margin-top:0;
+	}
+	
+	.nav li {
+		height:35px;
+		font-size:.75em;
+		margin-right:0;
+		padding-left:0;
+		padding-right:0;
+	}
+	
+	.footer {
+	  font-size:1em;
+	}
+	
+	.home-head {
+	  background-size:150%; 
+	}
+	
+	.photo-head {
+		height:250px;
+	}
+}
+
+@media only screen and (min-width: 588px) and (max-width: 768px) {
+	.name {
+		font-size:1.2em;
+		margin-top:3px;
+	}
+
+	.header {
+		height:35px;
+	}
+
+	.nav {
+		height:35px;
+		margin-top:0;
+	}
+	
+	.nav li {
+		height:35px;
+		margin-top:0px;
+		font-size:.7em;
+		font-weight:bold;
+		margin-right:0;
+		padding-left:0;
+		padding-right:0;
+	}
+	
+	.footer {
+	  font-size:1em;
+	}
+	
+	.home-head {
+	  background-size:177%; 
+	}
+	
+	.photo-head {
+		height:340px;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 960px) {
+	.name {
+		font-size:2em;
+		margin-top:5px;
+	}
+	
+	.header {
+		height:45px;
+	}
+
+	.nav {
+		margin-top:5px;
+	}
+	
+	.nav li {
+		font-size:1em;
+		margin-right:5px;
+	}
+	
+	.footer {
+	  font-size:1em;
+	}
+}

@@ -1,0 +1,68 @@
+<xml>
+
+
+	<day name="tue">
+		<time hour="17">
+			<ta>Dan</ta>
+		</time>
+		<time hour="18">
+			<ta>Jordan</ta>
+		</time>
+		<time hour="19">
+			<ta>Veena</ta>
+		</time>
+		<time hour="20">
+			<ta>Julia</ta>
+		</time>
+	</day>
+	<day name="wed">
+		<time hour="17">
+			<ta>Adam</ta>
+		</time>
+		<time hour="18">
+			<ta>Izaac</ta>
+		</time>
+		<time hour="19">
+			<ta>Corey</ta>
+		</time>
+		<time hour="20">
+			<ta>Jie Ying</ta>
+		</time>
+	</day>
+	<day name="thu">
+		<time hour="18">
+			<ta>Nick</ta>
+		</time>
+		<time hour="19">
+			<ta>Quynh</ta>
+		</time>
+		<time hour="20">
+			<ta>Shreya</ta>
+		</time>
+	</day>
+</xml>
+
+<!-- Days:
+sun
+mon
+tue
+wed
+thu
+fri
+sat
+
+Hours:
+12p, 13, ... , 24 (12a)
+
+TAs:
+Corey Silva (cjsilva)*
+Daniel Meyers (dmeyers)
+Julia Alvarez (jaa4)
+Jordan Hendricks (jphendri)
+Jie Ying Wu (jw120)
+Nicholas Byman (nbyman)
+Quynh Tran (qttran)
+Shreya Srinivas (ss50)
+Veena Vignale (vvignale)
+
+-->

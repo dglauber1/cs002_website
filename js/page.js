@@ -5,7 +5,7 @@ $( document ).ready(function() {
 	$("#navbar").prepend(
 		"<ul class='nav'>" +
 				"<li id='home' class='nav air'><a class='nav' href='../cs002'>Home</a></li>" +
-				"<li id='assign' class='nav water'><a class='nav' href='assignments.html'>Projects</a></li>" +
+				"<li id='assign' class='nav water'><a class='nav' href='projects.html'>Projects</a></li>" +
 				"<li id='labs' class='nav water'><a class='nav' href='labs.html'>Labs</a></li>" +
 				"<li id='lectures' class='nav fire'><a class='nav' href='lectures.html'>Lectures</a></li>" +
 				"<li id='hours' class='nav earth'><a class='nav' href='hours.html'>Hours</a></li>" +

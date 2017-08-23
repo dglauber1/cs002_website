@@ -63,8 +63,9 @@ html {
   margin-bottom: 100px;
 }
 
-#staff-table {
+.staff-table {
   border-top-color: #242424;
+  table-layout: fixed;
 }
 
 .main-body {
